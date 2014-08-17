@@ -1,0 +1,84 @@
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=43
+ finished data exchange with Root Node
+Tosser started
+tossing object Root Node
+tossing object empty
+tossing object Root Node
+adding to user Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=42
+tossing object com.jslope.toDoList.core.TimeInterval@e0a386
+ finished data exchange with Root Node
+tossing object stest
+tossing object com.jslope.toDoList.core.TimeInterval@feb48
+tossing object test 123
+tossing object com.jslope.toDoList.core.TimeInterval@11ff436
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=40
+ finished data exchange with Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=39
+ finished data exchange with Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=39
+ finished data exchange with Root Node
+tossing object com.jslope.toDoList.core.TimeInterval@787d6a
+tossing object test
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=41
+ finished data exchange with Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=41
+ finished data exchange with Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=40
+tossing object com.jslope.toDoList.core.TimeInterval@513d61
+ finished data exchange with Root Node
+tossing object test a
+tossing object test t
+tossing object com.jslope.toDoList.core.TimeInterval@16c79d7
+tossing object com.jslope.toDoList.core.TimeInterval@b33d0a
+tossing object test 7
+tossing object com.jslope.toDoList.core.TimeInterval@17431b9
+tossing object test 6
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=40
+tossing object com.jslope.toDoList.core.TimeInterval@e06940
+ finished data exchange with Root Node
+tossing object com.jslope.toDoList.core.TimeInterval@1aae94f
+tossing object test 9
+tossing object test 8
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=42
+ finished data exchange with Root Node
+tossing object test 11
+tossing object test 10
+tossing object com.jslope.toDoList.core.TimeInterval@15db314
+tossing object com.jslope.toDoList.core.TimeInterval@858bf1
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=40
+tossing object com.jslope.toDoList.core.TimeInterval@1d2b01b
+tossing object test 15
+tossing object test 16
+tossing object com.jslope.toDoList.core.TimeInterval@814013
+ finished data exchange with Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=40
+ finished data exchange with Root Node
+ data exchange with Root Node
+ transportTime = 0
+deltaTime=40
+ finished data exchange with Root Node
